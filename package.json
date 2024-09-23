@@ -1,0 +1,19 @@
+{
+  "name": "@maksim-gavr-04/ajs_3_platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maksim-Gavr-04/ajs_3_platforms.git"
+  },
+  "author": "Maksim-Gavr-04",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maksim-Gavr-04/ajs_3_platforms/issues"
+  },
+  "homepage": "https://github.com/Maksim-Gavr-04/ajs_3_platforms#readme"
+}
